@@ -1,0 +1,40 @@
+Labo 1 Data Foundations:
+
+Doel van de opdracht
+Tijdens de theorielessen hebben we geleerd dat data een belangrijke component is van verschillende processen zoals data engineering en data visualisatie. In dit labo zal je leren hoe je een basis analyse kan uitvoeren op een dataset met behulp van Python. Om een bepaalde dataset te gebruiken voor je data science lifecycle, is het belangrijk een goed begrip te hebben van de geselecteerde dataset. Je zal daarom verschillende technieken toepassen om inzicht te krijgen in de verdeling en kenmerken van een enkele variabele in de dataset.
+
+Stappen
+
+Stap 1: Data verzamelen en importeren
+We zullen werken met een dataset met bevolkingscijfers van Australische staten. Klik op onderstaande link om naar een library te gaan met datasets. Zoek daar naar de dataset uit package DAAG en item austpop.
+
+Link naar de data-library
+https://vincentarelbundock.github.io/Rdatasets/datasets.html
+
+Van deze dataset kan je het .csv-bestand downloaden. Importeer vervolgens de dataset in Python. Je kunt libraries zoals Pandas gebruiken om dit te doen.
+
+Tip: Zorg ervoor dat je het .csv-bestand hebt gedownload en dat het in dezelfde map staat als je Python-script. Vervolgens kan je de dataset importeren met Pandas.
+
+Stap 2: Data verkennen
+Voer de volgende analyses uit op een variabele naar keuze in de dataset:
+
+a. Bereken de centrale tendens (gemiddelde, mediaan, modus) van de variabele.
+
+b. Bereken de spreiding (standaardafwijking, interkwartielafstand) van de variabele.
+
+c. Genereer een histogram en een boxplot om de verdeling van de variabele te visualiseren.
+
+Stap 3: Interpretatie (dit kan je opnemen in je portfolio)
+Analyseer de resultaten van de univariate analyse en geef een korte interpretatie van wat je hebt ontdekt over de gekozen variabele. Bijvoorbeeld, is de verdeling normaal? Zijn er uitschieters?
+
+Stap 4: Rapportage (dit kan je eventueel opnemen in je portfolio)
+Vergelijk nu de analyse van meerdere variabelen in de dataset en trek vergelijkingen.
+
+Indienen:
+
+Indienen als een .zip-bestand met daarin je Python-code én je .CSV bestand. Het is belangrijk dat ik je code meteen kan runnen zonder dataset issues.
+
+De deadline is 2 oktober 23:59.
+
+
+Tip: vergeet je portfolio niet!
