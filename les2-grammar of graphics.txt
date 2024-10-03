@@ -1,0 +1,15 @@
+Grammar of Graphics bestaat uit 6 componenten
+1. Data: Welke data wordt er getoond?
+    wat is marktaandeel van verschillende telefoonfabrikanten?
+    niet duidelijk (percentages? delen?)
+2. Esthetiek: Wat is het uitzicht? welke kleuren ... esthetiek wordt hier gebruikt?
+    meerdere kleuren: verschil
+    assen: verbeteren! (om de 5)
+3. Geometrie: Welke vormen worden gebruikt?
+    staven/lijnen
+4. Facetten: Wordt er 1 of meerdere diagrammen gebruikt?
+    1
+5. Statistiek: Welke berekende/verwerkte info wordt getoond?
+    marktaandeel ...
+6. Coördinaten: Welke coords worden gebruikt op de assen?
+    percentage
