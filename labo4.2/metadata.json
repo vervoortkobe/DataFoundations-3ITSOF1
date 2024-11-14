@@ -1,0 +1,42 @@
+{
+    "InvoiceNo": {
+        "description": "Factuurnummer",
+        "datatype": "string",
+        "importance": "hoog"
+    },
+    "StockCode": {
+        "description": "Productcode",
+        "datatype": "string",
+        "importance": "hoog"
+    },
+    "Desc": {
+        "description": "Productbeschrijving",
+        "datatype": "string",
+        "importance": "medium"
+    },
+    "Quantity": {
+        "description": "Aantal verkochte eenheden",
+        "datatype": "int",
+        "importance": "medium"
+    },
+    "InvoiceDate": {
+        "description": "Datum van factuur",
+        "datatype": "datetime",
+        "importance": "medium"
+    },
+    "UnitPrice": {
+        "description": "Prijs per eenheid",
+        "datatype": "float",
+        "importance": "medium"
+    },
+    "CustomerID": {
+        "description": "Unieke klantidentificatie",
+        "datatype": "float",
+        "importance": "hoog"
+    },
+    "Country": {
+        "description": "Land van klant",
+        "datatype": "string",
+        "importance": "medium"
+    }
+}
